@@ -20,7 +20,7 @@
 ---
 
 ### 📫 Contactez-moi
-- **Email :** [votre_email@example.com](mailto:Chahine.saadellaoui@esprit.tn)
+- **Email :** [Chahine.saadellaoui@esprit.tn](mailto:Chahine.saadellaoui@esprit.tn)
 - **GitHub :** [github.com/chahinesaadellaoui](https://github.com/chahinesaadellaoui)
 
 ---
