@@ -1,10 +1,8 @@
 # 👋 Bonjour, je suis Chahine Saadellaoui !
 
-### 🏆 Développeur & Entraîneur de Natation
+🎓 **Diplômé en Sciences Informatiques** avec mention Très Bien.  
 - 🖥️ Développeur en **Java**, **Symfony**.
-- 📘 Passionné par la programmation orientée objet, les algorithmes, et les bases de données.
 
----
 
 ### 🌟 Compétences Techniques
 - **Langages :** Java, Python. 
